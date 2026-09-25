@@ -594,12 +594,5 @@ pip install -r requirements.txt
 .\.venv\Scripts\python.exe tests/debug_optimizer.py
 ```
 
----
+<img width="901" height="485" alt="Screenshot 2026-09-25 141935" src="https://github.com/user-attachments/assets/9bab9690-2af1-453a-9d59-72fd27a10539" />
 
-## 📄 License
-
-Internal use only — Educational/Demo purpose.
-
----
-
-**Questions?** See docstrings in `src/*.py` or check `tests/debug_optimizer.py` for examples. 🎓
